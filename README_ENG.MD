@@ -20,17 +20,13 @@ Modify your game progress easily – balance, research points, employees, invent
 - 📁 **Auto‑detect Save Folder** – the editor tries to find your `Saved Games\Startup Company` folder automatically.
 
 
-## 📥 Download
-
-Ready‑to‑use `.exe` files are available in the **Releases** section:  
-👉 [Releases](https://github.com/your-username/your-repo-name/releases)
-
-
-
 ## 🛠️ Build from Source (for developers)
 
 ### Requirements
 - Python 3.8 or higher
 - Tkinter (included with Python)
 
+📬 Contact
+Author: Drive2Code
+Email: vladimirzarov60@gmail.com
 
