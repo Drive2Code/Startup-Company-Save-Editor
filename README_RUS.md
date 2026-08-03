@@ -27,3 +27,9 @@
 - Python 3.8 или выше
 - Tkinter (входит в стандартную поставку Python)
 
+Если у вас есть пожелания, замечания, претензии, или вы просто хотите обсудить данный проект:
+📬 Contact
+Author: Drive2Code
+
+Email: vladimirzarov60@gmail.com
+
