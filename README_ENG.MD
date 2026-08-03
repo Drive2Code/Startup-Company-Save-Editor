@@ -5,7 +5,7 @@ Modify your game progress easily – balance, research points, employees, invent
 
 ![Main Window](screenshots/SaveEditorTitle.png)
 
----
+
 
 ## ✨ Features
 
@@ -19,16 +19,13 @@ Modify your game progress easily – balance, research points, employees, invent
 - 🖼️ **Custom Icon** – the application window uses its own icon (not the default Tkinter logo).
 - 📁 **Auto‑detect Save Folder** – the editor tries to find your `Saved Games\Startup Company` folder automatically.
 
----
 
 ## 📥 Download
 
 Ready‑to‑use `.exe` files are available in the **Releases** section:  
 👉 [Releases](https://github.com/your-username/your-repo-name/releases)
 
-> **Note:** The executable is built for Windows. It does not require Python or any additional libraries to run.
 
----
 
 ## 🛠️ Build from Source (for developers)
 
@@ -36,8 +33,4 @@ Ready‑to‑use `.exe` files are available in the **Releases** section:
 - Python 3.8 or higher
 - Tkinter (included with Python)
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+
