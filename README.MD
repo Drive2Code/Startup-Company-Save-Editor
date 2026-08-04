@@ -1,4 +1,7 @@
 # 🎮 Startup Company Save Editor
+
+![GitHub Release](https://img.shields.io/github/v/release/Drive2Code/Startup-Company-Save-Editor)
+
 Startup Company Save Editor – the first graphical save file editor for Startup Company. 
 Edit balance, research points, employees, inventory, and more. 
 No other save editor or save file editor exists for this game.
