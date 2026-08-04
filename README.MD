@@ -9,7 +9,7 @@ Modify your game progress easily – balance, research points, employees, invent
 
 ![Main Window](screenshots/Employees.png)
 
-![Main Window](screenshots/inventory.png)
+![Main Window](screenshots/Inventory.png)
 
 ## ✨ Features
 
