@@ -3,11 +3,6 @@
 ![GitHub Release](https://img.shields.io/github/v/release/Drive2Code/Startup-Company-Save-Editor)
 ![GitHub License](https://img.shields.io/github/license/Drive2Code/Startup-Company-Save-Editor)
 
-Startup Company Save Editor – the first graphical save file editor for Startup Company. 
-Edit balance, research points, employees, inventory, and more. 
-No other save editor or save file editor exists for this game.
-**A powerful save file editor for the game [Startup Company](https://store.steampowered.com/app/844160/Startup_Company/).**  
-Modify your game progress easily – balance, research points, employees, inventory, transactions, and more.
 Startup Company Save Editor is the first and most powerful graphical save file editor for the game Startup Company. This game save modifier allows you to easily edit balance, research points, employees, and inventory, giving you complete control over your gameplay experience. It's the ultimate save editor for anyone looking to modify their Startup Company save files.
 
 ![Main Window](screenshots/SaveEditorTitle.png)
