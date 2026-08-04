@@ -7,6 +7,7 @@ Modify your game progress easily – balance, research points, employees, invent
 
 ![Main Window](screenshots/SaveEditorTitle.png)
 
+![Main Window](screenshots/Employees.png)
 
 
 ## ✨ Features
