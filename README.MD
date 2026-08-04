@@ -1,5 +1,7 @@
 # 🎮 Startup Company Save Editor
-
+Startup Company Save Editor – the first graphical save file editor for Startup Company. 
+Edit balance, research points, employees, inventory, and more. 
+No other save editor or save file editor exists for this game.
 **A powerful save file editor for the game [Startup Company](https://store.steampowered.com/app/844160/Startup_Company/).**  
 Modify your game progress easily – balance, research points, employees, inventory, transactions, and more.
 
