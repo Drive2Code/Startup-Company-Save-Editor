@@ -30,8 +30,10 @@ Modify your game progress easily – balance, research points, employees, invent
 - Python 3.8 or higher
 - Tkinter (included with Python)
 
+
 ![GitHub Downloads (latest release)](https://img.shields.io/github/downloads/Drive2Code/Startup-Company-Save-Editor/latest/total)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Drive2Code/Startup-Company-Save-Editor)
+
 
 📬 Contact
 Author: Drive2Code
